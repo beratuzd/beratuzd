@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Berat Uzdil 👋
 
-<!--
-**beratuzd/beratuzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Manisa Celal Bayar University. Passionate about software architecture, algorithms, and building practical applications.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+- **Languages:** Java, Python, C++
+- **Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), System Design
+- **Tools:** Git, GitHub, IntelliJ IDEA, PyCharm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus
+- Developing simulation engines and complex data structure architectures.
+- Exploring machine learning foundations and algorithms.
+- Actively seeking Software Engineering internship opportunities.
+
+---
+📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/beratuzdil) | [Email](uzdilberat5@gmail.com)
