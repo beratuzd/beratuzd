@@ -33,3 +33,36 @@
     "Compiler & Parsing Architectures"
   ]
 }
+```
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <strong>Programming Languages</strong><br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32" />
+</p>
+
+<p align="left">
+  <strong>Engineering Foundations</strong><br/>
+  <img src="https://img.shields.io/badge/Data_Structures-4B0082?style=for-the-badge" height="32" />
+  <img src="https://img.shields.io/badge/Algorithms-2F4F4F?style=for-the-badge&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/OOP_Architecture-008080?style=for-the-badge" height="32" />
+</p>
+
+<p align="left">
+  <strong>Tools & Platforms</strong><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="32" />
+</p>
+
+---
+
+### 📌 Current Focus
+- Developing modular backend and simulation architectures.
+- Exploring algorithm optimization and machine learning foundations.
+- Actively seeking Software Engineering internship opportunities.
