@@ -30,7 +30,9 @@
   "core_focus": [
     "Modular System Simulations",
     "Data Structures & Algorithm Design",
-    "Compiler & Parsing Architectures"
+    "Compiler & Parsing Architectures",
+    "Machine Learning",
+    "Game Development"
   ]
 }
 ```
