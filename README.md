@@ -8,12 +8,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beratuzdil">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:uzdilberat5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Seeking_Internship-success?style=flat-square" alt="Status" />
 </p>
 
 </div>
