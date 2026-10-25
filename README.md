@@ -3,7 +3,7 @@
 Computer Engineering student at Manisa Celal Bayar University. Passionate about software architecture, algorithms, and building practical applications.
 
 ### 🛠 Tech Stack & Tools
-- **Languages:** Java, Python, C++
+- **Languages:** Java, Python
 - **Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), System Design
 - **Tools:** Git, GitHub, IntelliJ IDEA, PyCharm
 
