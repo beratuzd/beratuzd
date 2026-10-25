@@ -13,4 +13,4 @@ Computer Engineering student at Manisa Celal Bayar University. Passionate about 
 - Actively seeking Software Engineering internship opportunities.
 
 ---
-📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/beratuzdil) | [Email](uzdilberat5@gmail.com)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/beratuzdil) | [Email](mailto:uzdilberat5@gmail.com)
